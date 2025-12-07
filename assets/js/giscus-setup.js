@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "BruDiGe/tutorial",
+    "data-repo": "BruDiGe/alfolio",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
